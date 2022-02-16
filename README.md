@@ -16,7 +16,7 @@ The purpose of the analysis was to assist the user in identifying trends or oppo
 
 I utilized excel and transformed the presented data into a table and created relevant columns with supplemental calculations. Functions utilized include: IFERROR/ROUND/YEAR/DATE. Also utilized the text to column feature to separate values via a delimiter. The only challenge I ran into was for some reason the pivot chart feature decides to jumble the order of the ‘Outcomes Based on Goals’ data specifically the ‘Goals’ column. Sorting did not solve the issue. Discovered that individual axis’ can be rearranged to a preferred order. No other issues experienced during this module.
 
-![ScreenShot](https://ibb.co/F5p9w7J)
+![ScreenShot](https://github.com/gonzalesbarrett/kickstarter-analysis/blob/main/Pivot%20Chart%20Challenges.png)
  
 ## Results
 
